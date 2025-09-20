@@ -1,1 +1,3 @@
-this is my 1 lesson fil. я скоро научусь дата аналитике ин ща Аллах
+this is my 1 lesson file. я скоро научусь дата аналитике ин ща Аллах
+5+5=10
+hello, world
